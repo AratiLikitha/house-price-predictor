@@ -21,4 +21,16 @@ Note: Dataset not included in repo, download from Kaggle link above
 - RMSE: 41138.55
 
 ## Tech Stack
-Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Jupyter Notebook
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Scikit-Learn (Linear Regression)
+  
+## How to Run
+1. Download dataset from here: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
+2. Place HousePricePrediction.csv / train.csv in same folder as notebook
+3. Install requirements: `pip install pandas scikit-learn matplotlib seaborn`
+4. Run `house_price_predictor.ipynb` in Jupyter Notebook or VS Code
+   
+## Author
+Pati Likitha
