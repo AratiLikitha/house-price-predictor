@@ -3,9 +3,9 @@
 Predicts house sale price using Kaggle House Prices dataset with Linear Regression.
 
 ## Dataset
-HousePricePrediction.csv - 2919 rows, 13 columns
-Features: MSSubClass, LotArea, OverallCond, YearBuilt, YearRemodAdd, etc.
-Target: SalePrice
+Kaggle - House Prices: Advanced Regression Techniques (2919 houses, 80 features)
+Link: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
+Note: Dataset not included in repo, download from Kaggle link above
 
 ## Steps Performed
 1.  Data Loading & EDA - head(), describe(), info()
